@@ -36,6 +36,9 @@
                 "input": "src/theme/variables.scss"
               },
               {
+                "input": "node_modules/@progress/kendo-theme-default/dist/all.css"
+              },
+              {
                 "input": "src/global.scss"
               }
             ],
